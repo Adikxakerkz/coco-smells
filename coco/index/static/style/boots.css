@@ -1,0 +1,94 @@
+body {
+    background: linear-gradient(153deg, #a34f00 0%, #ffa857 51%, #d1d1d1 100%);
+}
+
+.navbar.navbar-expand-lg.navbar-light {
+    background-color: rgb(255, 255, 255);
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255, 153, 0);
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    color: black;
+}
+
+.img-logo {
+    width: 60px;
+    height: 60px;
+    border-radius: 30%;
+}
+
+.sidebar {
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    background-color: rgb(255, 145, 0);
+}
+
+.card {
+    background-color: rgb(255, 245, 231);
+    color: rgb(53, 53, 53);
+    margin: 10px;
+}
+
+.slide-text,
+.footer-text {
+    color: black;
+    margin: auto auto;
+    padding-inline: 50px;
+}
+
+footer {
+    background-color: #ff9d0038;
+    display: flex;
+    align-items: self-end;
+}
+
+.card-img-top.img2-card {
+    height: 293px;
+}
+
+.btn.btn-primary {
+    background-color:rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+    color:rgb(255, 145, 0);
+}
+
+.form-control.me-2{
+    background-color: #d1d1d1;
+}
+
+.card-title {
+    font-family: "lora" ;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.card-title.aaa {
+    font-size: 21px;
+}
+
+.card-body {
+    background-color: rgb(255, 145, 0)
+}
+
+.text-sidebar {
+    margin: 10px;
+    font-family: "lora";
+}
+
+sidebar-text-bold {
+    font-weight: bold;
+}
+
+section {
+    height: 1000px;
+}
+
+.card-catalog{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 800px;
+}
